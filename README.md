@@ -1,5 +1,6 @@
 # Cara - Clothing Brand Website
 
+
 A modern, responsive e-commerce website for Cara clothing brand featuring a clean design, interactive product displays, and mobile-first approach.
 
 ## 🌟 Features
@@ -195,6 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sai Harini**
 - Email: saiharinikona@gmail.com
 - GitHub: [@harini-honey7](https://github.com/harini-honey7)
+- Project Repository:
   
 
 ## 🙏 Acknowledgments
