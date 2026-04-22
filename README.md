@@ -5,7 +5,7 @@ A modern, responsive e-commerce website for the Cara clothing brand, designed wi
 🚀 🔗 Live Demo
 
 👉 Live Website:
-https://harini-honey7.github.io/Cara-clothing/
+https://harini-honey7.github.io/Cara-Clothing/
 
 👉 GitHub Repository:
 https://github.com/harini-honey7/Cara-clothing
@@ -28,6 +28,7 @@ CSS3 → Flexbox, Grid, Animations
 JavaScript → Interactivity & DOM handling
 Font Awesome → Icons
 Google Fonts → Typography (League Spartan)
+
 📁 Project Structure
 Cara-clothing/
 │
@@ -42,31 +43,39 @@ Cara-clothing/
 │   └── pay/
 │
 └── pages/ (upcoming)
+
 🎯 Features Breakdown
 🧭 Navigation
 Sticky header
 Responsive mobile menu
+
 🛍️ Product Section
 Featured products grid
 New arrivals showcase
 Hover effects & interactions
+
 🎯 Banner Sections
 Promotional offers
 Discount highlights
+
 📩 Newsletter
 Email subscription UI
+
 📱 Responsive Design
 Optimized for all screen sizes
+
 📱 Responsive Breakpoints
 Desktop → 1200px+
 Tablet → 800px – 1199px
 Mobile → Below 799px
+
 🎨 UI Design System
 🎨 Colors
 Primary → #088178
 Secondary → #E3E6F3
 Text → #222
 Background → #FFFFFF
+
 🔤 Typography
 Font → League Spartan
 Weights → 100–900
